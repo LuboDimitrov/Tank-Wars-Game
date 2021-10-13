@@ -26,7 +26,7 @@ The whole game can be played with these four functions
 1.(pinta)
 
 This function initializes the scenery, paints all the elements and place the writing cursor at the top left of the screen where players will enter the instructions.
-The default inclination of both canyons is set to 60º
+The default inclination of both canyons is set to 60º.
 This function has to be executed at the beginning of the game and only need to be run once.
 Once executed, the game should look something like this:
 
@@ -44,7 +44,7 @@ In this example, the first canyon shoots a projectile with a speed of 20.
 
 3.(puja canyonname degrees)
 
-"puja" means "rise/increase" in catalan
+"puja" means "rise/increase" in catalan.
 This function increases the angle of the canyon.
 
 ![](images/puja.PNG)
