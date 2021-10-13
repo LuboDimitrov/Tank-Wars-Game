@@ -10,7 +10,7 @@ Instructions:
 
 2. Download the file "canons.lsp" and place it to your XLisp folder.
 
-3. To load the file tpye: (load 'canons)
+3. To load the file type: (load 'canons)
 
 How to play the game:
 
