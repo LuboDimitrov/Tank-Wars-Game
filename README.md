@@ -22,7 +22,7 @@ The whole game can be played with these four functions
 This function initializes the scenery, paints all the elements and place the writing cursor at the top left of the screen where players will enter the instructions.
 It has to be executed at the beginning of the game and only need to be run once.
 Once executed, the game should look something like this:
-
+![](images/initial.png)
 
 
 2.(simula canyonname speed)
