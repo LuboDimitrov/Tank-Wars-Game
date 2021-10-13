@@ -15,9 +15,9 @@ Instructions:
 How to play the game:
 
 
-There are 2 players who control each tank/canyon.
+There are 2 players who control each tank/cannon.
 
-First player is called cano (cano means canyon in catalan)
+First player is called cano (cano means cannon/cannon in catalan)
 
 Second player is called cano2
 
@@ -26,7 +26,7 @@ The whole game can be played with these four functions
 1.(pinta)
 
 This function initializes the scenery, paints all the elements and place the writing cursor at the top left of the screen where players will enter the instructions.
-The default inclination of both canyons is set to 60º.
+The default inclination of both cannons is set to 60º.
 This function has to be executed at the beginning of the game and only need to be run once.
 Once executed, the game should look something like this:
 
@@ -34,23 +34,23 @@ Once executed, the game should look something like this:
 
 As you can see there are the 2 tanks, the mountains and the arrow at the top left indicates the wind speed and direction
 
-2.(simula 'canyonname speed)
+2.(simula 'cannonname speed)
 
-This function given a canyon name (either cano or cano2) and the speed of the shot, calculates and draws the trajectory of the projectile.
+This function given a cannon name (either cano or cano2) and the speed of the shot, calculates and draws the trajectory of the projectile.
 
 ![](images/simula.PNG)
 
-In this example, the first canyon shoots a projectile with a speed of 20.
+In this example, the first cannon shoots a projectile with a speed of 20.
 
-3.(puja 'canyonname degrees)
+3.(puja 'cannonname degrees)
 
 "puja" means "rise/increase" in catalan.
-This function increases the angle of the canyon.
+This function increases the angle of the cannon.
 
 ![](images/puja.PNG)
 
-Since the initial angle is 60º, if we increase the angle by 30 we got the canyon looking at 90º
+Since the initial angle is 60º, if we increase the angle by 30 we got the cannon looking at 90º
 
-4.(baixa 'canyonname degrees)
+4.(baixa 'cannonname degrees)
 
 This function does the same as the 3rd function but the other way around
