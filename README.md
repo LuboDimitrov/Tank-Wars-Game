@@ -12,16 +12,16 @@ For further information take a look at the documentation file
 
 2. Download the file "canons.lsp" and place it to your XLisp folder.
 
-3. To load the file type: (load 'canons)
+3. To load the file type: ``(load 'canons)``
 
 ## How to play the game:
 
 
-There are 2 players who control each tank/cannon.
+Each player controls one cannon
 
-First player is called cano (cano means cannon/cannon in catalan)
+First player is called ``cano`` (cano means cannon in catalan)
 
-Second player is called cano2
+Second player is called ``cano2``
 
 The whole game can be played with these 4 functions
 
