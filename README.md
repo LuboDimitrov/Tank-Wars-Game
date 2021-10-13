@@ -1,4 +1,4 @@
-# Tank-Wars-Game
+# Tank Wars Game
 The classic tank wars game programmed in Common Lisp
 
 Important: The comments and the name of all functions are written in Catalan, however i will do my best to translate it to you into English.
