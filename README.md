@@ -34,7 +34,7 @@ Once executed, the game should look something like this:
 
 As you can see there are the 2 tanks, the mountains and the arrow at the top left indicates the wind speed and direction
 
-2.(simula canyonname speed)
+2.(simula 'canyonname speed)
 
 This function given a canyon name (either cano or cano2) and the speed of the shot, calculates and draws the trajectory of the projectile.
 
@@ -42,7 +42,7 @@ This function given a canyon name (either cano or cano2) and the speed of the sh
 
 In this example, the first canyon shoots a projectile with a speed of 20.
 
-3.(puja canyonname degrees)
+3.(puja 'canyonname degrees)
 
 "puja" means "rise/increase" in catalan.
 This function increases the angle of the canyon.
@@ -51,6 +51,6 @@ This function increases the angle of the canyon.
 
 Since the initial angle is 60º, if we increase the angle by 30 we got the canyon looking at 90º
 
-4.(baixa canyonname degrees)
+4.(baixa 'canyonname degrees)
 
 This function does the same as the 3rd function but the other way around
