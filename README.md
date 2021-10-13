@@ -4,6 +4,8 @@ The classic tank wars game programmed in Common Lisp
 Important: The comments and the name of all functions are written in Catalan, however i will do my best to translate it to you into English.
 If you have any trouble with the execution do not hesitate to contact me
 
+For further information take a look at the documentation file
+
 Instructions:
 
 1. In order to execute the code you need to install XLisp (i'm currently using the version 3.04)
