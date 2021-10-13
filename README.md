@@ -1,19 +1,24 @@
 # Tank-Wars-Game
 The classic tank wars game programmed in Lisp
 
-Disclaimer: The comments and the name of all functions are written in Catalan, however i will do my best to translate it to you into English
+Important: The comments and the name of all functions are written in Catalan, however i will do my best to translate it to you into English.
+If you have any trouble with the execution do not hesitate to contact me
 
 Instructions:
 
 1. In order to execute the code you need to install XLisp (i'm currently using the version 3.04)
 
-2. To load the file tpye: (load 'canons)
+2. Download the file "canons.lsp" and place it to your XLisp folder.
+
+3. To load the file tpye: (load 'canons)
 
 How to play the game:
 
 
 There are 2 players who control each tank/canyon.
+
 First player is called cano (cano means canyon in catalan)
+
 Second player is called cano2
 
 The whole game can be played with these four functions
